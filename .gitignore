@@ -12,9 +12,11 @@ slideshow.mp4
 test-600.png
 slide_audio_final.py
 *.pyc
-asset/.mp4
-asset/.png
-asset/.jpg
-asset/.mp3
-asset/.jpeg
-asset/
+asset/*.mp4
+asset/*.png
+asset/*.jpg
+asset/*.mp3
+asset/*.jpeg
+asset/*.webp
+asset/*.txt
+#asset/
